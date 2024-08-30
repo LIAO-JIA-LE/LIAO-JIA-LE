@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 -->
 # Hi there! 👋 I'm Liao Jia Le
 
-Welcome to my GitHub profile! I'm a passionate developer with a focus on both frontend and backend technologies. I enjoy creating dynamic and interactive applications, always looking to learn and implement the latest trends in web development.
+Welcome to my GitHub profile!
+Currently studying at National Taichung University of Science and Technology.
+I'm a passionate developer with a focus on both frontend and backend technologies. I enjoy creating dynamic and interactive applications, always looking to learn and implement the latest trends in web development.
 
 ## 🛠️ Technologies & Tools
 
 ### Frontend
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) CSS
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
