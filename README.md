@@ -19,15 +19,13 @@ Currently studying at National Taichung University of Science and Technology.
 I'm a passionate developer with a focus on both frontend and backend technologies. I enjoy creating dynamic and interactive applications, always looking to learn and implement the latest trends in web development.
 
 ## 🛠️ Technologies & Tools
-
-### Frontend
 <code><img width="32" height="32" src="https://cdn.svgporn.com/logos/html-5.svg"></code>&nbsp;
 <code><img width="24" height="32" src="https://cdn.svgporn.com/logos/css-3.svg"></code>&nbsp;
 <code><img width="24" height="32" src="https://cdn.svgporn.com/logos/javascript.svg"></code>&nbsp;
 <code><img width="32" height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBH-1xgO3YtvHDtw3ijUfjC-QAP1FjLVVhqA&s"></code>&nbsp;
-<code><img width="32" height="32" src="https://cdn.svgporn.com/logos/flutter.svg"></code>&nbsp;
-<code><img width="32" height="32" src="https://cdn.svgporn.com/logos/flutter.svg"></code>&nbsp;
+<code><img width="32" height="32" src="https://cdn.svgporn.com/logos/python.svg"></code>&nbsp;
 <code><img width="32" height="32" src="https://cdn.svgporn.com/logos/dart.svg"></code>&nbsp;
+<code><img width="32" height="32" src="https://cdn.svgporn.com/logos/flutter.svg"></code>&nbsp;
 <code><img width="32" height="32" src="https://cdn.svgporn.com/logos/dotnet.svg"></code>&nbsp;
 <code><img width="32" height="32" src="https://cdn.svgporn.com/logos/react.svg"></code>&nbsp;
 <code><img width="32" height="32" src="https://cdn.svgporn.com/logos/socket.io.svg"></code>&nbsp;
