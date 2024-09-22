@@ -46,4 +46,7 @@ I'm a passionate developer with a focus on both frontend and backend technologie
 - ![.Net](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 - ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
 -->
+<img src="https://github-readme-stats.vercel.app/api?username=LIAO-JIA-LE" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIAO-JIA-LE" />
+
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate on something exciting!
