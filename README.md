@@ -22,6 +22,10 @@ I'm a passionate developer with a focus on both frontend and backend technologie
 <code><img width="32" height="32" src="https://cdn.svgporn.com/logos/html-5.svg"></code>&nbsp;
 <code><img width="24" height="32" src="https://cdn.svgporn.com/logos/css-3.svg"></code>&nbsp;
 <code><img width="24" height="32" src="https://cdn.svgporn.com/logos/javascript.svg"></code>&nbsp;
+<code><img width="32" height="32" src="https://cdn.svgporn.com/logos/bootstrap.svg"></code>&nbsp;
+<code><img width="32" height="32" src="https://github.com/sweetalert2/sweetalert2/blob/main/assets/swal2-logo-square.png"></code>&nbsp;
+<code><img width="32" height="32" src="https://avatars.githubusercontent.com/u/8077542?s=200&v=4"></code>&nbsp;
+ 
 <code><img width="32" height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBH-1xgO3YtvHDtw3ijUfjC-QAP1FjLVVhqA&s"></code>&nbsp;
 <code><img width="32" height="32" src="https://cdn.svgporn.com/logos/python.svg"></code>&nbsp;
 <code><img width="32" height="32" src="https://cdn.svgporn.com/logos/dart.svg"></code>&nbsp;
@@ -30,22 +34,13 @@ I'm a passionate developer with a focus on both frontend and backend technologie
 <code><img width="32" height="32" src="https://cdn.svgporn.com/logos/react.svg"></code>&nbsp;
 <code><img width="32" height="32" src="https://cdn.svgporn.com/logos/socket.io.svg"></code>&nbsp;
 <code><img width="32" height="32" src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png"></code>&nbsp;
-<!-- 
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+ 
+<code><img width="32" height="32" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"></code>&nbsp;
+<code><img width="32" height="32" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000"></code>&nbsp;
+<code><img width="32" height="32" src="https://cdn.svgporn.com/logos/swagger.svg"></code>&nbsp;
+<code><img width="32" height="32" src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000"></code>&nbsp;
+<code><img width="32" height="32" src="https://cdn.svgporn.com/logos/insomnia.svg"></code>&nbsp;
 
-### Backend
-- ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Frameworks & Libraries
-- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- ![.Net](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-- ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
--->
 <img src="https://github-readme-stats.vercel.app/api?username=LIAO-JIA-LE" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIAO-JIA-LE" />
 
