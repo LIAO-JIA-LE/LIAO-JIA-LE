@@ -43,5 +43,5 @@ I'm a passionate developer with a focus on both frontend and backend technologie
 
 <img src="https://github-readme-stats.vercel.app/api?username=LIAO-JIA-LE&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIAO-JIA-LE&theme=radical" />
-
+<!-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=LIAO-JIA-LE&theme=radical" />->
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate on something exciting!
